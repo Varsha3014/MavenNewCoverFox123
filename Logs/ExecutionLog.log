@@ -1,0 +1,28 @@
+2024-08-20 15:09:26,904 - CoverFoxInsurence -INFO - opening Browser
+2024-08-20 15:09:36,394 - CoverFoxInsurence -INFO - Click on MaleButton
+2024-08-20 15:09:38,466 - CoverFoxInsurence -INFO - Click on NextButton
+2024-08-20 15:09:39,597 - CoverFoxInsurence -WARN - Age Should be Between 18-90
+2024-08-20 15:09:39,598 - CoverFoxInsurence -INFO - Selecting Age
+2024-08-20 15:09:39,640 - CoverFoxInsurence -INFO - Click On NextButton
+2024-08-20 15:09:40,732 - CoverFoxInsurence -WARN - Please Enter Valid PinCode
+2024-08-20 15:09:40,733 - CoverFoxInsurence -INFO - Entering Pin code
+2024-08-20 15:09:40,798 - CoverFoxInsurence -WARN - Please Enter Valid MobileNumber
+2024-08-20 15:09:40,798 - CoverFoxInsurence -INFO - Entering MobileNumber
+2024-08-20 15:09:40,909 - CoverFoxInsurence -INFO - Click On ContinueButton
+2024-08-20 15:09:45,969 - CoverFoxInsurence -INFO - Validating presence of SortPlanDropdown
+2024-08-20 15:09:50,059 - CoverFoxInsurence -INFO - Validating Banners
+2024-08-20 15:09:50,209 - CoverFoxInsurence -INFO - Closing Browser
+2024-08-20 15:30:30,931 - CoverFoxInsurence -INFO - opening Browser
+2024-08-20 15:30:39,607 - CoverFoxInsurence -INFO - Click on MaleButton
+2024-08-20 15:30:41,756 - CoverFoxInsurence -INFO - Click on NextButton
+2024-08-20 15:30:43,008 - CoverFoxInsurence -WARN - Age Should be Between 18-90
+2024-08-20 15:30:43,010 - CoverFoxInsurence -INFO - Selecting Age
+2024-08-20 15:30:43,102 - CoverFoxInsurence -INFO - Click On NextButton
+2024-08-20 15:30:44,237 - CoverFoxInsurence -WARN - Please Enter Valid PinCode
+2024-08-20 15:30:44,237 - CoverFoxInsurence -INFO - Entering Pin code
+2024-08-20 15:30:44,360 - CoverFoxInsurence -WARN - Please Enter Valid MobileNumber
+2024-08-20 15:30:44,362 - CoverFoxInsurence -INFO - Entering MobileNumber
+2024-08-20 15:30:44,524 - CoverFoxInsurence -INFO - Click On ContinueButton
+2024-08-20 15:30:49,575 - CoverFoxInsurence -INFO - Validating presence of SortPlanDropdown
+2024-08-20 15:30:53,630 - CoverFoxInsurence -INFO - Validating Banners
+2024-08-20 15:30:53,800 - CoverFoxInsurence -INFO - Closing Browser
